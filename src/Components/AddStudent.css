@@ -1,0 +1,14 @@
+#addStudent {
+    border-radius: 5%;
+    box-shadow: 5px 5px 5px 5px #000;
+    border: thin solid #000;
+    padding: 5em;
+}
+
+#addStudentHeader {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #28a745;
+}
+
